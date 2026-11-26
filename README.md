@@ -1,5 +1,5 @@
-#Inventory Management System
-This System helps registered users to purchase and sell goods online.
+# Inventory Management System
+ This System helps registered users to purchase and sell goods online.
 
 ## Features
 - The app is fast and easy to use.
