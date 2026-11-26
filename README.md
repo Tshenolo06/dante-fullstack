@@ -1,7 +1,7 @@
 #Inventory Management System
 This System helps registered users to purchase and sell goods online.
 
-##Features
+## Features
 -The app is fast and easy to use.
 -The app is robust, secure and scalable
 ## Built with
@@ -9,6 +9,7 @@ This System helps registered users to purchase and sell goods online.
 - Spring Tool Suite, VS code and MySQL Workbench
 - MySQL Database
 
-##Installation
--Clone the repository with bash:
+## Installation
+Clone the repository with bash:
+'''
 git clone https://github.com/Tshenolo06/dante-fullstack.git
